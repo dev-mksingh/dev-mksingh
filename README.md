@@ -5,7 +5,7 @@
 <ul>
   <li>💻 Writing better codes to imporve the functionality of a website/webpages</li>
   <li>🎯 Focusing on the front end techs</li>
-  <li>🥅 Developing front-end and back-end of the website</li>
+  <li>🥅 Developing front-end of webiste</li>
   <li>🗣️ Happy to help you imporve your front end codes</li>
 </ul>
 <h2>Languages:</h2>
