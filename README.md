@@ -25,6 +25,9 @@
  <a>
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
  </a>
+ <a>
+   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+ </a>
 <h2>Currently Learning:</h2>
 <div>
   <a>
