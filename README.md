@@ -24,27 +24,12 @@
     </a>
 </div>
 
-<h2>Frameworks</h2>
+<h2>Framework</h2>
 
 <a>
    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
  </a>
- <a>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
- </a>
- 
-<h2>Currently Learning:</h2>
-<div>
-  <a>
-    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-  </a>
-    <a>
-      <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-    </a>
-</div>
+
 <h2>Build Systems:</h2>
 <a>
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>
